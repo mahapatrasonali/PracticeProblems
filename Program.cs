@@ -4,11 +4,12 @@
     {
         public static void Main(string[] args) 
         {
-            //VowelOrConstant.CheckCharacter();
+            VowelOrConstant.CheckCharacter();
             //Swap.SwapNumbers();
             // QuotientAndRemainder.FindQuotientAndRemainder();
-            LargestNumber.FindTheLargestNumber();
-           // EvenOrOdd.FindEvenOrOdd();
+            //LargestNumber.FindTheLargestNumber();
+            // EvenOrOdd.FindEvenOrOdd();
+            powerofTwo.CalPow();
         }
     }
 }
